@@ -1,0 +1,22 @@
+# Secrets
+.env
+credentials.json
+token.pickle
+
+# Generated files
+*.pth
+*.pkl
+*.pyc
+__pycache__/
+*.log
+*.db
+
+# Data directories
+logs/
+data/
+nltk_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
